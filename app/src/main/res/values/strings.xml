@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="calculator_text">Calculator</string>
+    <string name="enter_first_number">Enter First Number</string>
+    <string name="enter_second_number">Enter Second Number</string>
+    <string name="plusOP">+</string>
+    <string name="op2">-</string>
+    <string name="op3">*</string>
+    <string name="op4">/</string>
+    <string name="result">Result</string>
+
+
+</resources>
